@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-8">
-            <h1 class="display-4 fw-bold mb-3">Hi, I'm <span class="text-primary">Your Name</span></h1>
+            <h1 class="display-4 fw-bold mb-3">Hi, I'm <span class="text-primary">Thien Phuc Vuong</span></h1>
             <h2 class="h3 text-secondary mb-4">Software Engineer</h2>
             <p class="lead mb-4">
               I build elegant solutions to complex problems. Specializing in full-stack development
