@@ -61,6 +61,13 @@ jobs:
         name: dist-files
         path: dist/
         
+    - name: Show dist folder contents
+      run: |
+        echo "Dist folder contents after download:"
+        ls -la dist/
+        echo "Build size:"
+        du -sh dist/
+        
     - name: Setup Pages
       uses: actions/configure-pages@v4
       
